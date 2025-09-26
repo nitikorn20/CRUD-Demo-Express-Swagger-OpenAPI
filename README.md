@@ -1,4 +1,4 @@
-# CRUD Demo – Express + Swagger (OpenAPI 3)
+# CRUD Demo – Express + Swagger (OpenAPI)
 
 ตัวอย่าง REST API สำหรับมือใหม่ ใช้ **Express** ทำ API และ **Swagger UI** สำหรับเอกสารแบบ interactive
 
@@ -18,7 +18,7 @@
 ## โครงสร้างโปรเจกต์
 
 ```
-node-swagger-crud/
+CRUD-Demo-Express-Swagger-OpenAPI/
 ├─ app.js                     # server หลัก + swagger-setup
 ├─ openapi/
 │  ├─ info.js                 # ข้อมูลทั่วไป (title/version/servers)
